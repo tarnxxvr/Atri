@@ -1,0 +1,37 @@
+.bigb {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    /* border: 2px solid black; */
+}
+
+.left1 {
+    padding: 100px;
+    width: 50%;
+    background-color: #FF7629;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.left1 h1,
+p {
+    color: white;
+
+}
+
+.right1 {
+    width: 50%;
+    height: 100%;
+
+}
+
+
+.right1 img {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}

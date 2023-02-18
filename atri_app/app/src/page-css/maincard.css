@@ -1,0 +1,21 @@
+.mainc img {
+    border-radius: 10px;
+    box-shadow: 110px 110px 5px orangered;
+    -moz-box-shadow: 110px 110px 115px orangered;
+    -webkit-box-shadow: 110px 110px 115px orangered;
+    -khtml-box-shadow: 110px 110px 115px orangered;
+}
+
+#title {
+    font-weight: bold;
+}
+
+.client {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.down {
+    padding: 20px;
+}

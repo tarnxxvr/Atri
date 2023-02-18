@@ -1,0 +1,13 @@
+.navmain {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+li {
+    list-style: none;
+}
+
+.nav-link {
+    color: grey;
+}

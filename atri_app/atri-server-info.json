@@ -1,0 +1,15 @@
+{
+  "port": 4005,
+  "pythonPort": 4007,
+  "publicDir": "dist/app",
+  "pages": {
+    "/": {
+      "name": "Main"
+    }
+  },
+  "publicUrlAssetMap": {
+    "/app-assets": "..\\assets",
+    "organizationName": "krvivi28",
+    "projectName": "atri"
+  }
+}

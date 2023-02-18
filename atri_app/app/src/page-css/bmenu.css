@@ -1,0 +1,13 @@
+.three {
+    flex-wrap: wrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+
+.four {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
